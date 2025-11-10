@@ -1,1 +1,1 @@
-# demo-course-app
+# course-app
